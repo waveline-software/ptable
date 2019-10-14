@@ -1,5 +1,5 @@
 # pTable
-An elegant periodic table for Linux.
+An elegant periodic table for the Linux command line.
 
 ---
 
